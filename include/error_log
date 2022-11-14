@@ -1,0 +1,5 @@
+[16-Jun-2022 00:10:41 Asia/Kolkata] PHP Notice:  Undefined index: EMAIL in /home/codiwoob/public_html/Codify/include/logout.php on line 5
+[16-Jun-2022 03:15:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/codiwoob/public_html/Codify/include/add-user.php on line 171
+[16-Jun-2022 03:15:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/codiwoob/public_html/Codify/include/add-user.php on line 172
+[16-Jun-2022 03:15:27 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/codiwoob/public_html/Codify/include/add-user.php on line 173
+[16-Jun-2022 11:45:56 Asia/Kolkata] PHP Notice:  Undefined index: EMAIL in /home/codiwoob/public_html/Codify/include/logout.php on line 5
